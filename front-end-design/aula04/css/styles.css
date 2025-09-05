@@ -1,0 +1,38 @@
+* {
+    background-color: #3a4750;
+    font-family: copperplate;
+}
+body {
+    color: white;
+}
+.titulo-page{
+        font-size: 48px;
+        width:50%;
+        text-align:center;
+    }
+    .titulo-page:hover{
+        font-size: 56px;
+    }
+.conteudos-img{
+    text-align:center;
+    width:90%
+    margin:100px;
+    .jovem-morumbi{
+        width:45%;
+        border-radius:10px;
+    }
+    .gato-sfc{
+        width:27%;
+        border-radius:10px;
+    }
+}
+.textinho{
+    margin-left:14%;
+}
+footer{
+    text-align:center;
+    margin-top:8%;
+    p{
+        font-size:14px;
+    }
+}
